@@ -8,4 +8,5 @@ By mass, Jupiter's atmosphere is around 76% hydrogen and 24% helium. However, si
 
 Jupiter was the first planet to form, and its inward migration during the primordial Solar System impacted much of the formation history of the other planets. Jupiter is primarily composed of hydrogen (90% by volume), followed by helium, which makes up a quarter of its mass and a tenth of its volume. The ongoing contraction of Jupiter's interior generates more heat than the planet receives from the Sun. Its internal structure is believed to comprise an outer mantle of liquid metallic hydrogen, and a diffuse inner core of denser material. Because of its rapid rotation rate of 1 rotation per 10 hours, Jupiter's shape is an oblate spheroid: it has a slight but noticeable bulge around the equator. The outer atmosphere is divided into a series of latitudinal bands, with turbulence and storms along their interacting boundaries. The most obvious result of this is the Great Red Spot, a giant storm which has been observed since 1831 and possibly earlier.
 
-Jupiter wasn't the first planet to form!!!
+Jupiter was indeed the first planet to form. The END!!!
+
